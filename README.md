@@ -12,3 +12,6 @@ Making my first changes to the Master branch.
 I am now testing the changes making sure that they are saving correctly locally.
 
 With Maddy we are now testing how the changes are being implemented.
+
+
+I am now making some additions to the branch to test collaborating for the first time.
