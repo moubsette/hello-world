@@ -9,4 +9,4 @@ So far so good
 
 Making my first changes to the Master branch.
 
-I am now testing the changes making sure that they are saving correctly locally.
+Now I want to make changes locally which will create a merge conflict when pushed remotely. 
