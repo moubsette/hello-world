@@ -1,4 +1,7 @@
 # hello-world
 
-Checking if we can get a merge conflict.
-Hope it's working
+Hello All,
+
+Yesterday Andrew asked us to create a merge conflict. So that is what I am doing right now.
+
+Hopefully making our first merge conflict.
